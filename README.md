@@ -1,0 +1,2 @@
+# guides
+game guide
